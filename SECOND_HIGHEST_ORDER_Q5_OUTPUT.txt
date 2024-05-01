@@ -1,0 +1,9 @@
+Order Reference : PO013
+Order Date : 20-AUG-22
+Supplier Name : MOTTOWAY CORP.
+Order Total Amount : 5819625
+Order Status : Closed
+INVOICES : INV_PO013.1
+
+*******************************************
+

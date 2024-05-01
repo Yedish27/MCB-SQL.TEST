@@ -1,0 +1,71 @@
+Contrat Name: Berry Parker
+Telephone Number  : 602-8010
+Mobile Number : 5784-41266
+Orders : 10
+Total Amount:     114,600.00
+
+*******************************************
+Contrat Name: Megan Hembly
+Telephone Number  : 242-0641
+Mobile Number : 5784-41698
+Orders : 10
+Total Amount:      42,000.00
+
+*******************************************
+Contrat Name: Zenhir Belall
+Telephone Number  : 654-7416
+Mobile Number : 5284-45412
+Orders : 14
+Total Amount:     500,000.00
+
+*******************************************
+Contrat Name: Jordan Min
+Telephone Number  : 219-5412
+Mobile Number : 5841-12556
+Orders : 12
+Total Amount:     170,400.00
+
+*******************************************
+Contrat Name: Amelia Bridney
+Telephone Number  : 219-5412
+Mobile Number : 5948-80015
+Orders : 4
+Total Amount:      73,600.00
+
+*******************************************
+Contrat Name: Frederic Pey
+Telephone Number  : 219-5412
+Mobile Number : 5255-57435
+Orders : 16
+Total Amount:     115,200.00
+
+*******************************************
+Contrat Name: Georges Neeroo
+Telephone Number  : 461-5841
+Mobile Number : 5741-12545
+Orders : 34
+Total Amount:     550,000.00
+
+*******************************************
+Contrat Name: Steeve Narsimullu
+Telephone Number  : 217-4512
+Mobile Number : 5874-41002
+Orders : 12
+Total Amount:      53,400.00
+
+*******************************************
+Contrat Name: Stevens Seernah
+Telephone Number  : 219-5412
+Mobile Number : 5794-42513
+Orders : 18
+Total Amount:  13,139,250.00
+
+*******************************************
+Contrat Name: Reddy Floyd
+Telephone Number  : 217-4512
+Mobile Number : 5284-45412
+Orders : 12
+Total Amount:     365,400.00
+
+*******************************************
+

@@ -1,0 +1,189 @@
+anonymous block completed
+Order Reference : 1
+Order Date : JAN-22
+Supplier Name : Pegasus Ltd
+Order Total Amount :      20,000.00
+Order Status : Closed
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+Order Reference : 2
+Order Date : JAN-22
+Supplier Name : Mottoway Corp.
+Order Total Amount :   1,500,000.00
+Order Status : Open
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+Order Reference : 3
+Order Date : JAN-22
+Supplier Name : Digisay Co. Ltd.
+Order Total Amount :     114,600.00
+Order Status : Closed
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+Order Reference : 4
+Order Date : FEB-22
+Supplier Name : Lamboni Stat Inc.
+Order Total Amount :      13,600.00
+Order Status : Closed
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+Order Reference : 4
+Order Date : FEB-22
+Supplier Name : Lamboni Stat Inc.
+Order Total Amount :       8,000.00
+Order Status : Received
+Invoice Reference : INV_PO004
+Invoice Total Amount :       8,000.00
+Invoice Status : Paid
+Action : OK
+
+*******************************************
+Order Reference : 4
+Order Date : FEB-22
+Supplier Name : Lamboni Stat Inc.
+Order Total Amount :       6,000.00
+Order Status : Received
+Invoice Reference : INV_PO004.1
+Invoice Total Amount :       6,000.00
+Invoice Status : Paid
+Action : OK
+
+*******************************************
+Order Reference : 4
+Order Date : FEB-22
+Supplier Name : Lamboni Stat Inc.
+Order Total Amount :       1,200.00
+Order Status : Cancelled
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+Order Reference : 5
+Order Date : APR-22
+Supplier Name : Emtello Ltd
+Order Total Amount :      42,000.00
+Order Status : Closed
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+Order Reference : 6
+Order Date : FEB-22
+Supplier Name : Stuffie Stationery
+Order Total Amount :     500,000.00
+Order Status : Open
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+Order Reference : 7
+Order Date : JUN-22
+Supplier Name : Safedest Taxi Services
+Order Total Amount :      53,400.00
+Order Status : Closed
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+Order Reference : 8
+Order Date : JUN-22
+Supplier Name : Jinfix Computers
+Order Total Amount :     170,400.00
+Order Status : Open
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+Order Reference : 9
+Order Date : JUN-22
+Supplier Name : Fireland Bros.
+Order Total Amount :      73,600.00
+Order Status : Open
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+Order Reference : 10
+Order Date : JUL-22
+Supplier Name : Foxy Electronics
+Order Total Amount :     365,400.00
+Order Status : Closed
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+Order Reference : 11
+Order Date : JUL-22
+Supplier Name : Lamboni Stat Inc.
+Order Total Amount :      86,400.00
+Order Status : Closed
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+Order Reference : 12
+Order Date : AUG-22
+Supplier Name : Pegasus Ltd
+Order Total Amount :     530,000.00
+Order Status : Open
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+Order Reference : 13
+Order Date : AUG-22
+Supplier Name : Mottoway Corp.
+Order Total Amount :  11,639,250.00
+Order Status : Closed
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+Order Reference : 14
+Order Date : SEP-22
+Supplier Name : Digisay Co. Ltd.
+Order Total Amount :     800,240.00
+Order Status : Open
+Invoice Reference : 
+Invoice Total Amount :           0.00
+Invoice Status : 
+Action : To Verify
+
+*******************************************
+
