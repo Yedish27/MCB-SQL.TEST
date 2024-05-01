@@ -1,5 +1,7 @@
 MCB Assessment:
 
+TOOLS USED: ORACLE SQL DEVELOPPER
+
 Execute the file “DB_Prequisite.sql” which will enable you to create the table “XXBCM_ORDER_MGT” and inserts all the data.
 
 Execute the file “DB_Table” which will create the tables below : • XXBCM_ORDER_MGT_CLR : Copy of table “XXBCM_ORDER_MGT” with all cleaned data(eg : remove o from amount to replace with 0) 
